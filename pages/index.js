@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">Welcome to the AiiO (AI Input Output) application. Your privacy is paramount to us. Below, you will find detailed
         information regarding our privacy policy.</p>
 
-    <h5>Utilization of the AiiO Platform</h5>
+    <h3>Utilization of the AiiO Platform</h3>
     <p className="description">The application relies on the powerful openAi ChatGPT platform to provide its services. When you use our app, it
         may be necessary for OpenAI ChatGPT to collect usage data, such as user inputs and generated responses. We
         invite you to consult OpenAI ChatGPT's privacy policy for more details on how your data is handled.</p>
