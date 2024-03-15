@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        {/* <Header title="AiiO (AI Input Output) Terms and Conditions" /> */}
+        <Header title="AiiO (AI Input Output) Terms and Conditions" />
         <p className="description">Welcome to the AiiO (AI Input Output) application. Your privacy is paramount to us. Below, you will find detailed
         information regarding our privacy policy.</p>
 
